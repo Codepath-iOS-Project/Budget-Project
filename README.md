@@ -17,7 +17,7 @@ This app's purpose is to help users budget the money being spent on subscription
 - **Story:** The user can view all the active subscriptions they have subscribed to and how much they are paying monthly. A possible user story will be to cancel their subscription through the app.
 - **Market:** Adults who are 18+ will be allowed access to this application.
 - **Habit:** This app could be used whenever the user wants or needs to use it.
-- **Scope:** ??
+- **Scope:** The app will allow users to view their subscriptions. Possibly, the user can cancel directly from the app and how much they have paid since signing up on a specific subscription.
 
 ## Product Spec
 
