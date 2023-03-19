@@ -60,10 +60,10 @@ This app's purpose is to help users budget the money being spent on subscription
 * Settings
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
+Cash
 <img src="      [wireframe.pdf](https://github.com/Codepath-iOS-Project/Budget-Project/files/11010064/wireframe.pdf)
             " width=600>
-            [wireframe.pdf](https://github.com/Codepath-iOS-Project/Budget-Project/files/11010065/wireframe.pdf)
+[wireframe.pdf](https://github.com/Codepath-iOS-Project/Budget-Project/files/11010065/wireframe.pdf)
 
             
 
